@@ -32,7 +32,7 @@ Portfolio weights are assumed to be rebalanced daily, excluding transaction cost
 
 ## Full Research Report
 
-The complete analysis, including methodology, results, graphs, and discussion, is available in the [HTML report](Report/when_diversification_fails.html).
+The complete analysis, including methodology, results, graphs, and discussion, is available here [View the Full Research Report](https://natthanya-p.github.io/when-diversification-fails/Report/when_diversification_fails.html).
 
 ## Tools and Skills
 
